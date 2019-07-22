@@ -10,7 +10,7 @@ var discountedprice = 1000;
  console.log(discountedprice);
 
  
-
+ // Case sensitive
 
  var a = 14;
 
